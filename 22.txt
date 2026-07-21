@@ -1,2 +1,7 @@
 apple
 banana
+pear
+watermelon
+patato
+tomato
+strawberry
